@@ -2,7 +2,7 @@
   "drilldown": [
     {
       "num_entries": 1, 
-      "amount": 64500.0, 
+      "amount": 188072068.0, 
       "cofog1": {
         "taxonomy": "cofog1", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/01", 
@@ -27,13 +27,13 @@
     }, 
     {
       "num_entries": 1, 
-      "amount": 7190.0, 
+      "amount": 92676910.0, 
       "cofog1": {
         "taxonomy": "cofog1", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/02", 
         "_id": 2, 
         "name": "02", 
-        "label": "schools"
+        "label": "pre-school"
       }, 
       "cofog2": {
         "taxonomy": "cofog2", 
@@ -52,7 +52,7 @@
     }, 
     {
       "num_entries": 1, 
-      "amount": 5760.0, 
+      "amount": 125200821.0, 
       "cofog1": {
         "taxonomy": "cofog1", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/08", 
@@ -64,8 +64,8 @@
         "taxonomy": "cofog2", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/08-2", 
         "_id": 13, 
-        "name": "08.2", 
-        "label": "dollar"
+        "name": "08", 
+        "label": "economy-tourism"
       }, 
       "cofog3": {
         "taxonomy": "cofog3", 
@@ -77,20 +77,20 @@
     }, 
     {
       "num_entries": 1, 
-      "amount": 4050.0, 
+      "amount": 39171726.0, 
       "cofog1": {
         "taxonomy": "cofog1", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/07", 
         "_id": 7, 
         "name": "07", 
-        "label": "our-streets"
+        "label": "traffic-watersup"
       }, 
       "cofog2": {
         "taxonomy": "cofog2", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/07-3", 
         "_id": 11, 
         "name": "07.3", 
-        "label": "farms"
+        "label": "traffic-watersup"
       }, 
       "cofog3": {
         "taxonomy": "cofog3", 
@@ -102,20 +102,20 @@
     }, 
     {
       "num_entries": 1, 
-      "amount": 3950.0, 
+      "amount": 59468361.0, 
       "cofog1": {
         "taxonomy": "cofog1", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/07", 
         "_id": 7, 
         "name": "07", 
-        "label": "our-streets"
+        "label": "housing"
       }, 
       "cofog2": {
         "taxonomy": "cofog2", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/07-2", 
         "_id": 10, 
         "name": "07.2", 
-        "label": "street-lights"
+        "label": "housing"
       }, 
       "cofog3": {
         "taxonomy": "cofog3", 
@@ -127,7 +127,7 @@
     }, 
     {
       "num_entries": 1, 
-      "amount": 3670.0, 
+      "amount": 3006837.0, 
       "cofog1": {
         "taxonomy": "cofog1", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/05", 
@@ -140,7 +140,7 @@
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/05-2", 
         "_id": 7, 
         "name": "05.2", 
-        "label": "tree"
+        "label": "environment"
       }, 
       "cofog3": {
         "taxonomy": "cofog3", 
@@ -152,13 +152,13 @@
     }, 
     {
       "num_entries": 1, 
-      "amount": 2370.0, 
+      "amount": 46374017.0, 
       "cofog1": {
         "taxonomy": "cofog1", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/02", 
         "_id": 2, 
         "name": "02", 
-        "label": "schools"
+        "label": "education"
       }, 
       "cofog2": {
         "taxonomy": "cofog2", 
@@ -177,7 +177,7 @@
     }, 
     {
       "num_entries": 1, 
-      "amount": 2140.0, 
+      "amount": 1888481.0, 
       "cofog1": {
         "taxonomy": "cofog1", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/03", 
@@ -202,13 +202,13 @@
     }, 
     {
       "num_entries": 1, 
-      "amount": 1780.0, 
+      "amount": 7496434.0, 
       "cofog1": {
         "taxonomy": "cofog1", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/08", 
         "_id": 8, 
         "name": "08", 
-        "label": "economy-tourism"
+        "label": "harbor"
       }, 
       "cofog2": {
         "taxonomy": "cofog2", 
@@ -227,20 +227,20 @@
     }, 
     {
       "num_entries": 1, 
-      "amount": 1460.0, 
+      "amount": 45053762.0, 
       "cofog1": {
         "taxonomy": "cofog1", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/10", 
         "_id": 10, 
         "name": "10", 
-        "label": "traffic-watersup"
+        "label": "publicaffairs"
       }, 
       "cofog2": {
         "taxonomy": "cofog2", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/10-1", 
         "_id": 17, 
         "name": "10.1", 
-        "label": "traffic-watersup"
+        "label": "publicaffairs"
       }, 
       "cofog3": {
         "taxonomy": "cofog3", 
@@ -252,20 +252,20 @@
     }, 
     {
       "num_entries": 1, 
-      "amount": 940.0, 
+      "amount": 14168331.0, 
       "cofog1": {
         "taxonomy": "cofog1", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/09", 
         "_id": 9, 
         "name": "09", 
-        "label": "government"
+        "label": "order-safety"
       }, 
       "cofog2": {
         "taxonomy": "cofog2", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/09-2", 
-        "_id": 16, 
-        "name": "09.2", 
-        "label": "government"
+        "_id": 1, 
+        "name": "", 
+        "label": ""
       }, 
       "cofog3": {
         "taxonomy": "cofog3", 
@@ -277,20 +277,20 @@
     }, 
     {
       "num_entries": 1, 
-      "amount": 770.0, 
+      "amount": 11790398.0, 
       "cofog1": {
         "taxonomy": "cofog1", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/06", 
         "_id": 6, 
         "name": "06", 
-        "label": "garbage"
+        "label": "farms"
       }, 
       "cofog2": {
         "taxonomy": "cofog2", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/06-1", 
         "_id": 8, 
         "name": "06.1", 
-        "label": "garbage"
+        "label": "farms"
       }, 
       "cofog3": {
         "taxonomy": "cofog3", 
@@ -302,20 +302,20 @@
     }, 
     {
       "num_entries": 1, 
-      "amount": 590.0, 
+      "amount": 5000.0, 
       "cofog1": {
         "taxonomy": "cofog1", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/07", 
         "_id": 7, 
         "name": "07", 
-        "label": "our-streets"
+        "label": "coal"
       }, 
       "cofog2": {
         "taxonomy": "cofog2", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/07-1", 
         "_id": 9, 
         "name": "07.1", 
-        "label": "housing"
+        "label": "coal"
       }, 
       "cofog3": {
         "taxonomy": "cofog3", 
@@ -327,20 +327,20 @@
     }, 
     {
       "num_entries": 1, 
-      "amount": 340.0, 
+      "amount": 97875911.0, 
       "cofog1": {
         "taxonomy": "cofog1", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/08", 
-        "_id": 8, 
-        "name": "08", 
-        "label": "economy-tourism"
+        "_id": 13, 
+        "name": "13", 
+        "label": "money"
       }, 
       "cofog2": {
         "taxonomy": "cofog2", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/08-1", 
-        "_id": 12, 
-        "name": "08.1", 
-        "label": "culture"
+        "_id": 14, 
+        "name": "13", 
+        "label": "money"
       }, 
       "cofog3": {
         "taxonomy": "cofog3", 
@@ -352,20 +352,20 @@
     }, 
     {
       "num_entries": 1, 
-      "amount": 320.0, 
+      "amount": 16407.0, 
       "cofog1": {
         "taxonomy": "cofog1", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/04", 
         "_id": 4, 
         "name": "04", 
-        "label": "order-safety"
+        "label": "economic-aid"
       }, 
       "cofog2": {
         "taxonomy": "cofog2", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/04-1", 
         "_id": 5, 
-        "name": "04.1", 
-        "label": "order-safety"
+        "name": "04", 
+        "label": "economic-aid"
       }, 
       "cofog3": {
         "taxonomy": "cofog3", 
@@ -377,45 +377,20 @@
     }, 
     {
       "num_entries": 1, 
-      "amount": 220.0, 
+      "amount": 300000.0, 
       "cofog1": {
         "taxonomy": "cofog1", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/05", 
         "_id": 5, 
         "name": "05", 
-        "label": "environment"
+        "label": "dollar"
       }, 
       "cofog2": {
         "taxonomy": "cofog2", 
         "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/05-1", 
         "_id": 6, 
         "name": "05.1", 
-        "label": "wind"
-      }, 
-      "cofog3": {
-        "taxonomy": "cofog3", 
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog3/", 
-        "_id": 1, 
-        "name": "", 
-        "label": ""
-      }
-    }, 
-    {
-      "num_entries": 1, 
-      "amount": 1.0, 
-      "cofog1": {
-        "taxonomy": "cofog1", 
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog1/09", 
-        "_id": 9, 
-        "name": "09", 
-        "label": "government"
-      }, 
-      "cofog2": {
-        "taxonomy": "cofog2", 
-        "html_url": "http://openspending.org/yokohama_yosan_percentage/cofog2/09-1", 
-        "_id": 15, 
-        "name": "09.1", 
-        "label": "publicaffairs"
+        "label": "dollar"
       }, 
       "cofog3": {
         "taxonomy": "cofog3", 

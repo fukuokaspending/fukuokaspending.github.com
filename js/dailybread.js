@@ -1,29 +1,32 @@
 OpenSpending = "OpenSpending" in window ? OpenSpending : {};
 
 OpenSpending.LABEL_MAPPING = {
-  "helping-others":"健康福祉",
+  "helping-others":"保険福祉",
   "pre-school":"こども青少年",
   "education":"教育",
-  "civilian-action":"市民",
+  "civilian-action":"議会",
   "order-safety":"消防",
   "wind":"温暖化対策",
   "tree":"環境創造",
   "garbage":"資源循環",
-  "housing":"建築",
+  "housing":"都市計画",
   "street-lights":"都市整備",
-  "farms":"道路",
   "culture":"文化観光",
   "dollar":"経済",
   "harbor":"港湾",
   "publicaffairs":"総務",
   "government":"政策",
-  "traffic-watersup":"交通・水道",
-
+  "traffic-watersup":"土木",
+　"farms":"農業水産業",
+　"coal":"災害復旧費",
+　"money":"公債費",
+　"economic-aid":"諸支出金",
   "schools":"子育て・教育",
   "economy-tourism":"経済・観光",
   "our-streets":"街づくり",
   "environment":"環境",
-  "traffic-watersup":"交通・水道"
+  "dollar":"予備費",
+  "traffic-watersup":"交通・水道",
 };
 
 (function ($) {
